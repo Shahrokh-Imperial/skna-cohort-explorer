@@ -1,0 +1,2 @@
+pig_id,baseline_median_uV,baseline_mad_uV,gmm_threshold_uV,q95_threshold_uV,mad6_threshold_uV,selected_threshold_uV,selected_source
+1,0.7020859828842835,0.025433542578686796,,0.7613315901196928,0.8546872383564043,0.8546872383564043,synthetic safeguard
